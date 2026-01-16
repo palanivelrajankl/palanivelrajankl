@@ -1,16 +1,18 @@
-## Hi there 👋
+# HEyy! I'm Palanivelrajan 👋 ✨
 
-<!--
-**palanivelrajankl/palanivelrajankl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "I code with heart, not just rules." ❤️
 
-Here are some ideas to get you started:
+- 🚀 Currently on a **2026 Python Journey** to master logic and build cool stuffs.
+- 💡 I believe in being unique—I even fought an AI to keep my first filename as `HEyy.py`!
+- 🛠️ Currently learning at: [Python-Journey-Of-Palani-in-2026](https://github.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My Growth Log
+- [x] Wrote my first script `HEyy.py`
+- [x] Mastered `if/else` with a Student Mark System
+- [ ] Currently tackling: **Loops and User Input**
+
+### 📫 Connect with me:
+[LinkedIn](www.linkedin.com/in/palanivelrajankl)
+
+---
+*“HEyy! Don't be a robot, be yourself.”*
