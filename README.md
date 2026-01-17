@@ -12,7 +12,7 @@
 - [ ] Currently tackling: **Loops and User Input**
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Verified-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palanivelrajankl)
+[![LinkedIn](https://img.shields.io/badge/in-PalanivelRajan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palanivelrajankl)
 
 
 
