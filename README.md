@@ -12,7 +12,8 @@
 - [ ] Currently tackling: **Loops and User Input**
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/in-PalanivelRajan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palanivelrajankl) [![Instagram](https://img.shields.io/badge/Instagram-Stories%20in%20Frames-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/palanivelrajan.k.l?igsh=MWpyenJ5ZGU0YXdndg==)
+[![LinkedIn](https://img.shields.io/badge/in-PalanivelRajan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palanivelrajankl) [![Instagram](https://img.shields.io/badge/ig-palanivelrajan.k.l-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/palanivelrajan.k.l?igsh=MWpyenJ5ZGU0YXdndg==)
+
 
 
 
